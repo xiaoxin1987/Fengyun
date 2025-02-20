@@ -624,7 +624,7 @@ schema:
     - liangfen
   description: |
     雾凇拼音 - 风云双拼
-    https://github.com/iDvel/rime-ice
+   https://github.com/xiaoxin1987/fy
 
   name: "风云雙拼"
   schema_id: fy_pinyin
